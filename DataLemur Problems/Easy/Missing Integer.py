@@ -4,3 +4,4 @@ def missing_int(input: list[int])-> int:
   else:
     lista = [n for n in range(max(input)+1) if n not in input]
     return lista
+  

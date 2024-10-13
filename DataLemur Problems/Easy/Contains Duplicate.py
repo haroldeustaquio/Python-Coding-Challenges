@@ -5,3 +5,4 @@ def contains_duplicate(input)-> bool:
         return True
         break
   return False
+

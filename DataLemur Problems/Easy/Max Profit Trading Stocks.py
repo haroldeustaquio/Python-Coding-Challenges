@@ -4,4 +4,3 @@ def max_subarray_sum(prices):
             min_index = i
 
     return max(prices[min_index:]) - min(prices)
-
