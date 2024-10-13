@@ -9,3 +9,4 @@ def trailing_zeroes(n):
       temp=temp//10
   
   return count
+

@@ -10,4 +10,3 @@ def has_merge_conflict(pull_requests)-> bool:
     return False
 
 has_merge_conflict([[5, 10], [15, 40], [25, 50]])
-
